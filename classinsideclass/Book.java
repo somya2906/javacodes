@@ -1,6 +1,7 @@
 package classinsideclass;
 
 public class Book {
+	// Reviews class is used inside Book class
 	int id;
 	String name;
 	String author;
